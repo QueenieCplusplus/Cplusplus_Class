@@ -11,4 +11,8 @@ To Be Done ... 尚未完成。
 
 * destructor, 解構函數
 
+* overload, 多載
+
+* vector, 向量型別
+
 
