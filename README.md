@@ -15,4 +15,7 @@ To Be Done ... 尚未完成。
 
 * vector, 向量型別
 
+# Limitation of Overload 
+
+
 
