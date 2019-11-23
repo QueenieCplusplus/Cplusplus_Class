@@ -3,7 +3,11 @@
 
 此議題將探討類別、動態記憶體配置、繼承。
 
-To Be Done ... 尚未完成。
+# Config file
+
+* cpp_
+
+*
 
 # OOP is kind of Bottom Up Design!
 
