@@ -5,9 +5,9 @@
 
 # Config file
 
-* cpp_
+* c_cpp_properties.json
 
-*
+* launch.json
 
 # OOP is kind of Bottom Up Design!
 
