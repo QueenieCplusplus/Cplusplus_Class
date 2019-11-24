@@ -11,11 +11,13 @@
 
 # Config file
 
-* c_cpp_properties.json
+plug-in using Code Runner. 
 
-* launch.json
+    * c_cpp_properties.json
 
-# OOP is kind of Bottom Up Design!
+    * launch.json
+
+# OOP is kind of Bottom Up Design!, 由底層往高階
 
 * constructor, 建構函數
 
@@ -23,19 +25,19 @@
 
 * overload, 多載
 
-* vector, 向量型別
-
-# Dynamic Store (aka Free Store)
+# Dynamic Store (aka Free Store), 動態記憶體配置
 
   https://github.com/QueenieCplusplus/Cplusplus_destructor#建構資源
 
-# Limitation of Overload 
+# Limitation of Overload, 運算子多載
 
 多載的運算子不一定是成員函數，但是至少一運算元必須是使用者自訂型態。
 
 1. operators, 不產生新的運算子符號。
 
 2. 無法多載特定的運算子，例如 ?: (條件運算子)、. (成員運算子)、.* (成員指標運算子)、sizeof、cast。
+
+# Inheitance, 繼承
 
 TBD...待續。
 
