@@ -25,6 +25,10 @@
 
 * vector, 向量型別
 
+# Dynamic Store (aka Free Store)
+
+  https://github.com/QueenieCplusplus/Cplusplus_destructor#建構資源
+
 # Limitation of Overload 
 
 多載的運算子不一定是成員函數，但是至少一運算元必須是使用者自訂型態。
