@@ -19,11 +19,13 @@ plug-in using Code Runner.
 
 # OOP is kind of Bottom Up Design!, 由底層往高階
 
-* constructor, 建構函數
+https://github.com/QueenieCplusplus/Cplusplus_destructor/blob/master/destructor.cpp
 
-* destructor, 解構函數
+      * constructor, 建構函數
 
-* overload, 多載
+      * destructor, 解構函數
+
+      * overload, 多載
 
 # Dynamic Store (aka Free Store), 動態記憶體配置
 
@@ -33,9 +35,9 @@ plug-in using Code Runner.
 
 多載的運算子不一定是成員函數，但是至少一運算元必須是使用者自訂型態。
 
-1. operators, 不產生新的運算子符號。
+      1. operators, 不產生新的運算子符號。
 
-2. 無法多載特定的運算子，例如 ?: (條件運算子)、. (成員運算子)、.* (成員指標運算子)、sizeof、cast。
+      2. 無法多載特定的運算子，例如 ?: (條件運算子)、. (成員運算子)、.* (成員指標運算子)、sizeof、cast。
 
 # Inheitance, 繼承
 
