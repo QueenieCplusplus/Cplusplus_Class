@@ -41,5 +41,5 @@ https://github.com/QueenieCplusplus/Cplusplus_destructor/blob/master/destructor.
 
 # Inheitance, 繼承
 
-TBD...待續。
+   TBD...待續。
 
