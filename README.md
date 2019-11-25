@@ -39,7 +39,5 @@ https://github.com/QueenieCplusplus/Cplusplus_destructor/blob/master/destructor.
 
       2. 無法多載特定的運算子，例如 ?: (條件運算子)、. (成員運算子)、.* (成員指標運算子)、sizeof、cast。
 
-# Inheitance, 繼承
 
-   TBD...待續。
 
